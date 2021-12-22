@@ -58,7 +58,6 @@ n: an integer for desired maximum length, setting to 7 to 8 for good performance
 
 a list of possible words by adjacent moves
 
-
 ### muwgs.utils.keyboard_utils.word_press(word: str, t=global_time: int)
 
 Press word with interval `t`
