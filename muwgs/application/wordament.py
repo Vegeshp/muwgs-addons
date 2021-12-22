@@ -4,7 +4,7 @@ from collections import deque
 import time
 
 
-def wordament(s: str, press=True, print_result=False, n=4):
+def wordament(s: str, press=True, print_result=False, n=global_limit):
     '''solver for wordament
     :param press: bool, help to print
     :param print: bool, print to screen
